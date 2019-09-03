@@ -1,8 +1,7 @@
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
+# object-recognition-based-on-YOLO-v2
+This is one of our "Object Recognition System" (based on YOLO v2), written for ICRA 2018 DJI RoboMaster AI Challenge (HIT Shenzhen).
 
-# Darknet #
-Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+Welcome to communicate with me.
 
-For more information see the [Darknet project website](http://pjreddie.com/darknet).
+E-mail: Danielsong007@gmail.com.
 
-For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
